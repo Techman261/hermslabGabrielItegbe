@@ -1,0 +1,8 @@
+[11/23/2026 10:22 PM] Gable Brown: /start
+[11/23/2026 10:22 PM] Gable Brown: Hello
+[11/23/2026 10:22 PM] Gable: 📬 No home channel is set for Telegram. A home channel is where Hermes delivers cron job results and cross-platform messages.
+
+Type /sethome to make this chat your home channel, or ignore to skip.
+[11/23/2026 10:22 PM] Gable in reply to Gable Brown:
+> ‎⁨Hello⁩
+Hello! How can I assist you today? If you're looking to get started with some tasks or just want to chat, feel free to let me know. You can also mention /help at any time to see a list of commands and options available to you. Would you like to build a short profile of yourself so I can better tailor my assistance? If so, we can start with your name and what you typically work on. You can skip this step anytime if you prefer to remain anonymous.
